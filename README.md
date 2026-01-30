@@ -1,15 +1,8 @@
 # Hi, I'm Saanvi 😎
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saanvi-arora-16664022b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saanviarora.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saanviarora4@gmail.com)
-
-
 ---
 
-## About Me
-
-Hi! I’m a senior at UNC Chapel Hill, double majoring in **Computer Science and Mathematics** with a minor in Data Science and I am currently looking for full time roles. My academic and professional work sits at the intersection of software development, data engineering, and security. I enjoy building systems that are both technically rigorous and socially meaningful.
+## Hi! I’m a senior at UNC Chapel Hill, double majoring in **Computer Science and Mathematics** with a minor in Data Science and I am currently looking for full time roles. My academic and professional work sits at the intersection of software development, data engineering, and security. I enjoy building systems that are both technically rigorous and socially meaningful.
 
 ## Tech Stack
 ### Languages
@@ -52,16 +45,24 @@ Hi! I’m a senior at UNC Chapel Hill, double majoring in **Computer Science and
 ## 📊 GitHub Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=saanviarora&label=Profile%20Views&color=blueviolet&style=flat-square)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanwee&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saanwee&layout=compact&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanwee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saanwee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 ---
 
 ## 📫 Let's Connect
 
-**Email:** saanviarora4.edu  
-**Location:** Chapel Hill, NC
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saanvi-arora-16664022b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saanviarora.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saanviarora4@gmail.com)
+
 
 ---
 
