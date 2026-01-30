@@ -1,30 +1,17 @@
-# Hey there, I'm Saanvi 👋
-
-CS + Math student @ UNC Chapel Hill | ML & Security Enthusiast
+# Hi, I'm Saanvi 😎
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saanvi-arora-16664022b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saanviarora.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saanviarora4@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=saanviarora&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 ---
 
-## 🚀 About Me
+## About Me
 
-**Computer Science & Mathematics** student at UNC Chapel Hill with a passion for machine learning and cybersecurity.
+Hi! I’m a senior at UNC Chapel Hill, double majoring in **Computer Science and Mathematics** with a minor in Data Science and I am currently looking for full time roles. My academic and professional work sits at the intersection of software development, data engineering, and security. I enjoy building systems that are both technically rigorous and socially meaningful.
 
-
-### What I'm Up To
-
-- 🔬 **Research** - Optimizing symbolic execution for hardware security @ UNC Hardware Security Lab
-- 🤖 **Building** - RAG-based chatbot for my portfolio using LangChain & Pinecone
-- 📚 **Learning** - Deep diving into compilers and cryptography
-- ✍️ **Writing** - Technical blog posts on ML, tech policy, and mathematics
-
----
-
-## 💻 Tech Stack
+## Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -64,24 +51,14 @@ CS + Math student @ UNC Chapel Hill | ML & Security Enthusiast
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanviarora&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saanviarora&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🌟 Highlighted Work
-
-**Yoga Pose Estimator** - Real-time pose classification using MobileNetV2 achieving 78% accuracy on 12 yoga poses
-
-**SYLQ Optimization** - Enhancing symbolic execution engine for hardware security analysis
-
-**Portfolio + RAG Chatbot** - Full-stack site with AI-powered assistant using LangChain & Pinecone
+![Profile views](https://komarev.com/ghpvc/?username=saanviarora&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanwee&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saanwee&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ---
 
 ## 📫 Let's Connect
-
 
 **Email:** saanviarora4.edu  
 **Location:** Chapel Hill, NC
