@@ -2,7 +2,7 @@
 
 ---
 
-## Hi! I’m a senior at UNC Chapel Hill, double majoring in **Computer Science and Mathematics** with a minor in Data Science and I am currently looking for full time roles. My academic and professional work sits at the intersection of software development, data engineering, and security. I enjoy building systems that are both technically rigorous and socially meaningful.
+#### I’m a senior at UNC Chapel Hill, double majoring in **Computer Science and Mathematics** with a minor in Data Science and I am currently looking for full time roles. My academic and professional work sits at the intersection of software development, data engineering, and security. I enjoy building systems that are both technically rigorous and socially meaningful.
 
 ## Tech Stack
 ### Languages
