@@ -22,6 +22,14 @@ I am always open to chat about anything under the sun!
 
 ---
 
+# 📊 GitHub Stats
+
+
+<!-- Alternative Streak Provider (older URL) -->
+![Stats](https://github-readme-streak-stats.herokuapp.com?user=saanwee&theme=tokyonight&hide_border=true) 
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -46,13 +54,6 @@ I am always open to chat about anything under the sun!
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-
-<!-- Alternative Streak Provider (older URL) -->
-![Stats](https://github-readme-streak-stats.herokuapp.com?user=saanwee&theme=tokyonight&hide_border=true) 
 
 <!-- Alternative: GitHub Profile Summary Cards -->
 
