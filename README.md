@@ -1,4 +1,6 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saanvi-arora/)
+# Hi! I am Saanvi 👋
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saanvi-arora-16664022b/)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://saanviarora.com)
 
 ![](https://komarev.com/ghpvc/?username=saanwee&style=flat-square&color=blue)
@@ -18,14 +20,13 @@
 
 ---
 
-### 💻 Technical Skills:
+### 💻 Lnguages:
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 
 ---
@@ -34,7 +35,7 @@
 
 | | |
 |---|---|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=saanwee&theme=dark&hide_border=true)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saanwee&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+![Saanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saanwee&show_icons=true&theme=radical)
 
 <!--
 **saanwee/saanwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
