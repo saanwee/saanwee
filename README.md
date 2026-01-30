@@ -52,7 +52,7 @@ I am always open to chat about anything under the sun!
 
 
 <!-- Alternative Streak Provider (older URL) -->
-![](https://github-readme-streak-stats.herokuapp.com?user=saanwee&theme=tokyonight&hide_border=true) 
+![Stats](https://github-readme-streak-stats.herokuapp.com?user=saanwee&theme=tokyonight&hide_border=true) 
 
 <!-- Alternative: GitHub Profile Summary Cards -->
 
