@@ -46,15 +46,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=saanviarora&label=Profile%20Views&color=blueviolet&style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanwee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanwee&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saanwee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
+<!-- Option 2: Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=saanwee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## 📫 Let's Connect
