@@ -46,10 +46,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=saanviarora&label=Profile%20Views&color=blueviolet&style=flat-square)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saanwee&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Option 2: Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=saanwee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Saanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saanwee)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📫 Let's Connect
