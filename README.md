@@ -12,6 +12,16 @@ Beyond engineering, I’m deeply interested in how technology interacts with law
 
 ---
 
+## 📫 Let's Connect
+
+I am always open to chat about anything under the sun!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saanvi-arora/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saanviarora.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saanvi@unc.edu)
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -40,24 +50,12 @@ Beyond engineering, I’m deeply interested in how technology interacts with law
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=saanwee&show_icons=true&theme=tokyonight&hide_border=true) -->
 
 <!-- Alternative Streak Provider (older URL) -->
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=saanwee&theme=tokyonight&hide_border=true) -->
+![](https://github-readme-streak-stats.herokuapp.com?user=saanwee&theme=tokyonight&hide_border=true) 
 
 <!-- Alternative: GitHub Profile Summary Cards -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanwee&theme=tokyonight) -->
 
-
----
-
-## 📫 Let's Connect
-
-I am always open to chat about anything under the sun!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saanvi-arora/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://saanviarora.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saanvi@unc.edu)
 
 ---
 <!--
