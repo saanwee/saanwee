@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a senior at UNC Chapel Hill, double majoring in Computer Science and Mathematics with a minor in Data Science, and I am currently looking for full time roles. My academic and professional work sits at the intersection of software development, data engineering, and security, where I enjoy building systems that are both technically rigorous and socially meaningful. 
 
@@ -12,7 +12,7 @@ Beyond engineering, I’m deeply interested in how technology interacts with law
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I am always open to chat about anything under the sun!
 
@@ -22,7 +22,7 @@ I am always open to chat about anything under the sun!
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 
 <!-- Alternative Streak Provider (older URL) -->
@@ -30,7 +30,7 @@ I am always open to chat about anything under the sun!
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
